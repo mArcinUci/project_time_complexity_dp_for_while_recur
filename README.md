@@ -3,6 +3,6 @@
 <img src="https://github.com/mArcinUci/project_time_complexity_dp_for_while_recur/assets/102475899/3d31ddd2-f082-48f7-8b75-5e3c98684409" width="40%"></img>
 
 Project Goals:
-- Create various variants of the Fibonacci function.
+- Create various variants of the Fibonacci function (including dynamic programming solutions).
 - Measure the execution time of individual functions.
 - Illustrate the obtained results.
